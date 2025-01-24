@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // output: 'export',
   reactStrictMode: true, // Enable strict React mode
   swcMinify: true,
   images: {
